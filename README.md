@@ -1,10 +1,8 @@
 # devops-u4-deployobservabilidade
 
-![CI/CD](https://github.com/SEU_USUARIO/devops-u4-deployobservabilidade/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD](https://github.com/Vitor142-png/devops-u4-deployobservabilidade/actions/workflows/ci-cd.yml/badge.svg)
 
 API back-end simples em Node.js/Express, criada para a atividade avaliativa Hands-On da Unidade 4 (Deploy e Manutenção de Back-end) do curso de Análise e Desenvolvimento de Sistemas.
-
-> Troque `SEU_USUARIO` acima pelo seu usuário do GitHub assim que criar o repositório, para o badge de status funcionar.
 
 ## Sobre o projeto
 
@@ -60,6 +58,10 @@ Configurar em `Settings > Secrets and variables > Actions`:
 - `PRODUCTION_URL` — URL pública da aplicação (ex: `https://devops-u4.onrender.com`)
 
 Veja o passo a passo completo em [`docs/GUIA_DEPLOY.md`](docs/GUIA_DEPLOY.md).
+
+### Repositório
+
+https://github.com/Vitor142-png/devops-u4-deployobservabilidade
 
 ## Deploy
 
