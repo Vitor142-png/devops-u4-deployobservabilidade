@@ -1,0 +1,26 @@
+{
+  "name": "devops-u4-deployobservabilidade",
+  "version": "1.0.0",
+  "description": "API simples para atividade avaliativa Hands-On - Unidade 4 (Deploy e Observabilidade)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test": "jest --coverage",
+    "lint": "eslint src tests"
+  },
+  "keywords": ["devops", "ci-cd", "observabilidade"],
+  "author": "Vitor Hugu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
